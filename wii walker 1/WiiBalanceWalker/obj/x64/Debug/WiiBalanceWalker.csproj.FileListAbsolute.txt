@@ -1,0 +1,14 @@
+C:\Users\LENOVO\Desktop\hrtyyr\WiiBalanceWalker\bin\x64\Debug\WiiBalanceWalker.exe.config
+C:\Users\LENOVO\Desktop\hrtyyr\WiiBalanceWalker\bin\x64\Debug\WiiBalanceWalker.exe
+C:\Users\LENOVO\Desktop\hrtyyr\WiiBalanceWalker\bin\x64\Debug\WiiBalanceWalker.pdb
+C:\Users\LENOVO\Desktop\hrtyyr\WiiBalanceWalker\bin\x64\Debug\InTheHand.Net.Personal.dll
+C:\Users\LENOVO\Desktop\hrtyyr\WiiBalanceWalker\bin\x64\Debug\WiimoteLib.dll
+C:\Users\LENOVO\Desktop\hrtyyr\WiiBalanceWalker\obj\x64\Debug\WiiBalanceWalker.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\hrtyyr\WiiBalanceWalker\obj\x64\Debug\WiiBalanceWalker.FormBluetooth.resources
+C:\Users\LENOVO\Desktop\hrtyyr\WiiBalanceWalker\obj\x64\Debug\WiiBalanceWalker.FormMain.resources
+C:\Users\LENOVO\Desktop\hrtyyr\WiiBalanceWalker\obj\x64\Debug\WiiBalanceWalker.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\hrtyyr\WiiBalanceWalker\obj\x64\Debug\WiiBalanceWalker.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\hrtyyr\WiiBalanceWalker\obj\x64\Debug\WiiBalanceWalker.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\hrtyyr\WiiBalanceWalker\obj\x64\Debug\WiiBalanceWalker.csproj.CopyComplete
+C:\Users\LENOVO\Desktop\hrtyyr\WiiBalanceWalker\obj\x64\Debug\WiiBalanceWalker.exe
+C:\Users\LENOVO\Desktop\hrtyyr\WiiBalanceWalker\obj\x64\Debug\WiiBalanceWalker.pdb
